@@ -1,10 +1,10 @@
 [
   {
     "name": "Audio API",
-    "url": "$RED_AUDIOAPI",
+    "url": "https://redbot.app/health",
     "slug": "audio-api",
-    "status": "down",
-    "uptime": "7.35%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 148
   }
 ]
