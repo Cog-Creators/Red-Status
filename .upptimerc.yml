@@ -5,7 +5,7 @@ repo: red-status # Your Github repository name
 # Add your sites here
 sites:
   - name: Audio API
-    url: $RED_AUDIOAPI
+    url: https://redbot.app/health
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
