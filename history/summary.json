@@ -5,6 +5,14 @@
     "slug": "audio-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 148
+    "time": 210
+  },
+  {
+    "name": "Cog board",
+    "url": "https://cogboard.red",
+    "slug": "cog-board",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 205
   }
 ]
