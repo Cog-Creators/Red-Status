@@ -5,7 +5,7 @@
     "slug": "audio-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 258
+    "time": 266
   },
   {
     "name": "Cog board",
@@ -13,6 +13,6 @@
     "slug": "cog-board",
     "status": "up",
     "uptime": "100.00%",
-    "time": 352
+    "time": 333
   }
 ]
