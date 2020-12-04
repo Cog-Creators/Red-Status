@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 301,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300
+    "time": 295,
+    "timeDay": 249,
+    "timeWeek": 297,
+    "timeMonth": 295,
+    "timeYear": 295
   },
   {
     "name": "Cog board",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 253,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323
+    "time": 319,
+    "timeDay": 289,
+    "timeWeek": 326,
+    "timeMonth": 319,
+    "timeYear": 319
   }
 ]
