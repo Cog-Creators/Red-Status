@@ -2,6 +2,7 @@
   {
     "name": "Audio API",
     "url": "https://redbot.app/health",
+    "icon": "https://favicons.githubusercontent.com/redbot.app",
     "slug": "audio-api",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 319,
-    "timeWeek": 288,
-    "timeMonth": 295,
-    "timeYear": 295
+    "time": 298,
+    "timeDay": 329,
+    "timeWeek": 292,
+    "timeMonth": 298,
+    "timeYear": 298,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cog board",
     "url": "https://cogboard.red",
+    "icon": "https://favicons.githubusercontent.com/cogboard.red",
     "slug": "cog-board",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 295,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316
+    "time": 317,
+    "timeDay": 323,
+    "timeWeek": 296,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   }
 ]
