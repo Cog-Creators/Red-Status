@@ -4,18 +4,20 @@
     "url": "https://redbot.app/health",
     "icon": "https://favicons.githubusercontent.com/redbot.app",
     "slug": "audio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 245,
-    "timeWeek": 332,
+    "time": 302,
+    "timeDay": 292,
+    "timeWeek": 333,
     "timeMonth": 308,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2021-01-19": 0
+    }
   },
   {
     "name": "Cog board",
