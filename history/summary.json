@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/redbot.app",
     "slug": "audio-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
-    "time": 304,
-    "timeDay": 332,
-    "timeWeek": 318,
-    "timeMonth": 316,
-    "timeYear": 304,
+    "uptimeYear": "99.93%",
+    "time": 305,
+    "timeDay": 325,
+    "timeWeek": 327,
+    "timeMonth": 318,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2021-01-19": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 227,
-    "timeWeek": 350,
-    "timeMonth": 359,
-    "timeYear": 330,
+    "time": 332,
+    "timeDay": 433,
+    "timeWeek": 361,
+    "timeMonth": 357,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   }
 ]
