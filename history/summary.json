@@ -4,7 +4,7 @@
     "url": "https://redbot.app/health",
     "icon": "https://favicons.githubusercontent.com/redbot.app",
     "slug": "audio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 283,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2021-03-09": 0,
       "2021-01-19": 65
     }
   },
