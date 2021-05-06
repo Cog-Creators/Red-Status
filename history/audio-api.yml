@@ -1,7 +1,7 @@
 url: https://redbot.app/health
-status: down
-code: 523
-responseTime: 3194
-lastUpdated: 2021-05-06T11:11:43.816Z
+status: up
+code: 200
+responseTime: 263
+lastUpdated: 2021-05-06T11:31:36.354Z
 startTime: Thu Nov 26 2020 05:40:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
