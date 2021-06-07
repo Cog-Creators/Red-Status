@@ -7,7 +7,7 @@ sites:
   - name: Audio API
     url: https://redbot.app/health
   - name: Cog board
-    url: https://cogboard.red
+    url: https://cogboard.discord.red
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
