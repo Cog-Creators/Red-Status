@@ -4,8 +4,6 @@ repo: red-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Audio API
-    url: https://redbot.app/health
   - name: Cog board
     url: https://cogboard.discord.red
 
