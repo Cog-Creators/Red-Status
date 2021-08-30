@@ -6,6 +6,10 @@ repo: red-status # Your Github repository name
 sites:
   - name: Cog board
     url: https://cogboard.discord.red
+  - name: Red-GitHubBot
+    url: https://red-githubbot.herokuapp.com
+    assignees:
+      - jack1142
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
