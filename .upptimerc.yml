@@ -6,8 +6,6 @@ repo: red-status # Your Github repository name
 sites:
   - name: Cog board
     url: https://cogboard.discord.red
-  - name: Index (web interface)
-    url: https://index.discord.red
   - name: Red-GitHubBot
     url: https://red-githubbot.herokuapp.com
     assignees:
