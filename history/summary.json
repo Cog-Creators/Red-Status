@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 416,
-    "timeDay": 536,
-    "timeWeek": 448,
-    "timeMonth": 458,
+    "timeDay": 437,
+    "timeWeek": 450,
+    "timeMonth": 461,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2021-10-13": 66,
@@ -29,18 +29,19 @@
     "icon": "https://favicons.githubusercontent.com/index.discord.red",
     "slug": "index-web-interface",
     "status": "down",
-    "uptime": "5.78%",
-    "uptimeDay": "5.78%",
-    "uptimeWeek": "5.78%",
-    "uptimeMonth": "5.78%",
-    "uptimeYear": "5.78%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 110,
+    "timeDay": 73,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-18": 71,
+      "2021-12-17": 1024
     }
   },
   {
@@ -54,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 238,
-    "timeWeek": 151,
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 150,
     "timeMonth": 128,
-    "timeYear": 134,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   }
 ]
