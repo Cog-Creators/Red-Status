@@ -4,7 +4,7 @@
     "url": "https://cogboard.discord.red",
     "icon": "https://favicons.githubusercontent.com/cogboard.discord.red",
     "slug": "cog-board",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 429,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2022-01-05": 0,
       "2021-10-13": 66,
       "2021-09-18": 22,
       "2021-06-07": 1425,
