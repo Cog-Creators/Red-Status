@@ -46,9 +46,9 @@
     "url": "https://red-githubbot.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/red-githubbot.herokuapp.com",
     "slug": "red-git-hub-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 111,
     "timeMonth": 135,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   }
 ]
