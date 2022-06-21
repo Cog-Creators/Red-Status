@@ -25,9 +25,9 @@
     "url": "https://index.discord.red",
     "icon": "https://favicons.githubusercontent.com/index.discord.red",
     "slug": "index-web-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 265,
     "timeMonth": 278,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Red-GitHubBot",
