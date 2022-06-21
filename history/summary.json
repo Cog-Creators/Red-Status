@@ -25,19 +25,19 @@
     "url": "https://index.discord.red",
     "icon": "https://favicons.githubusercontent.com/index.discord.red",
     "slug": "index-web-interface",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 231,
-    "timeWeek": 265,
-    "timeMonth": 278,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 230,
+    "timeDay": 325,
+    "timeWeek": 284,
+    "timeMonth": 282,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 34
     }
   },
   {
