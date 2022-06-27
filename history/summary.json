@@ -6,17 +6,17 @@
     "slug": "cog-board",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "62.38%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "63.05%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "99.88%",
     "time": 456,
-    "timeDay": 618,
-    "timeWeek": 551,
+    "timeDay": 687,
+    "timeWeek": 568,
     "timeMonth": 531,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-06-26": 542,
+      "2022-06-26": 532,
       "2021-10-13": 66,
       "2021-09-18": 22
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 232,
-    "timeDay": 154,
-    "timeWeek": 321,
-    "timeMonth": 273,
-    "timeYear": 232,
+    "time": 233,
+    "timeDay": 386,
+    "timeWeek": 325,
+    "timeMonth": 282,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2022-06-21": 34
     }
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 30,
-    "timeWeek": 142,
-    "timeMonth": 169,
+    "timeDay": 223,
+    "timeWeek": 146,
+    "timeMonth": 176,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2022-02-24": 20
