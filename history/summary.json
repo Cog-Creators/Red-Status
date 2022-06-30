@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/cogboard.discord.red",
     "slug": "cog-board",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.72%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.88%",
     "time": 457,
-    "timeDay": 603,
-    "timeWeek": 559,
-    "timeMonth": 525,
+    "timeDay": 462,
+    "timeWeek": 550,
+    "timeMonth": 521,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2022-06-26": 532,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 274,
+    "timeDay": 253,
     "timeWeek": 315,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-06-21": 34
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 297,
-    "timeWeek": 162,
-    "timeMonth": 179,
-    "timeYear": 134,
+    "time": 133,
+    "timeDay": 97,
+    "timeWeek": 167,
+    "timeMonth": 180,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2022-02-24": 20
     }
