@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 478,
-    "timeDay": 476,
+    "timeDay": 484,
     "timeWeek": 562,
-    "timeMonth": 533,
+    "timeMonth": 539,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2022-10-12": 160,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 326,
-    "timeDay": 720,
+    "timeDay": 563,
     "timeWeek": 715,
-    "timeMonth": 637,
+    "timeMonth": 646,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2022-07-02": 25,
@@ -51,17 +51,16 @@
     "slug": "red-git-hub-bot",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 98,
+    "timeDay": 78,
     "timeWeek": 152,
-    "timeMonth": 163,
+    "timeMonth": 167,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-11-30": 11,
       "2022-02-24": 20
     }
   }
