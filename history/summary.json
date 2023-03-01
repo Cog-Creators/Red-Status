@@ -49,17 +49,19 @@
     "url": "https://red-githubbot.herokuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/red-githubbot.herokuapp.com.ico",
     "slug": "red-git-hub-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 572,
-    "timeWeek": 248,
-    "timeMonth": 161,
+    "timeDay": 301,
+    "timeWeek": 221,
+    "timeMonth": 156,
     "timeYear": 163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-01": 0
+    }
   }
 ]
