@@ -9,9 +9,9 @@ sites:
   - name: Index (web interface)
     url: https://index.discord.red
   - name: Red-GitHubBot
-    url: https://red-githubbot.herokuapp.com
+    url: https://red-githubbot.fly.dev
     assignees:
-      - jack1142
+      - Jackenmen
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
