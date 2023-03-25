@@ -1,7 +1,7 @@
-url: https://red-githubbot.herokuapp.com
-status: down
-code: 503
-responseTime: 267
-lastUpdated: 2023-03-24T23:15:30.972Z
+url: https://red-githubbot.fly.dev
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2023-03-25T04:26:09.070Z
 startTime: Mon Aug 30 2021 18:06:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
