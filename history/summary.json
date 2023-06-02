@@ -6,9 +6,9 @@
     "slug": "cog-board",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 485,
     "timeDay": 3755,
@@ -16,7 +16,6 @@
     "timeMonth": 577,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-06-01": 11,
       "2022-10-12": 160,
       "2022-10-11": 1,
       "2022-06-26": 532
