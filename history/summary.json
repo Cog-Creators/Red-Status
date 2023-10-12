@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 482,
-    "timeDay": 347,
-    "timeWeek": 488,
-    "timeMonth": 444,
+    "uptimeYear": "99.98%",
+    "time": 481,
+    "timeDay": 315,
+    "timeWeek": 448,
+    "timeMonth": 441,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2022-10-12": 160
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Index (web interface)",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 628,
-    "timeDay": 824,
-    "timeWeek": 921,
-    "timeMonth": 858,
-    "timeYear": 724,
+    "timeDay": 667,
+    "timeWeek": 870,
+    "timeMonth": 859,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2023-04-08": 794,
       "2023-03-02": 15
@@ -46,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/red-githubbot.fly.dev.ico",
     "slug": "red-git-hub-bot",
     "status": "up",
-    "uptime": "96.91%",
+    "uptime": "96.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.48%",
     "time": 189,
-    "timeDay": 188,
-    "timeWeek": 185,
-    "timeMonth": 194,
+    "timeDay": 163,
+    "timeWeek": 186,
+    "timeMonth": 192,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2023-05-06": 24,
