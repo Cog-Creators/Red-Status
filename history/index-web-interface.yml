@@ -1,7 +1,7 @@
 url: https://index.discord.red
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2024-03-28T05:47:48.594Z
+status: down
+code: 502
+responseTime: 322
+lastUpdated: 2024-03-28T06:59:01.269Z
 startTime: 2021-12-29T16:08:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
