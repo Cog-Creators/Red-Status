@@ -45,11 +45,11 @@
     "url": "https://red-githubbot.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/red-githubbot.fly.dev.ico",
     "slug": "red-git-hub-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "97.73%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 239,
     "timeDay": 203,
@@ -57,7 +57,7 @@
     "timeMonth": 143,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-07-16": 8,
+      "2024-07-16": 0,
       "2024-04-30": 68,
       "2024-03-20": 38
     }
