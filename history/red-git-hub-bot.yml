@@ -1,7 +1,7 @@
 url: https://red-githubbot.fly.dev
-status: up
-code: 200
-responseTime: 188
-lastUpdated: 2024-09-19T23:18:34.626Z
+status: down
+code: 503
+responseTime: 15567
+lastUpdated: 2024-09-20T07:11:21.293Z
 startTime: 2021-08-30T18:06:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
