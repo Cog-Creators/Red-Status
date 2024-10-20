@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
-    "timeDay": 481,
-    "timeWeek": 552,
-    "timeMonth": 561,
-    "timeYear": 505,
-    "dailyMinutesDown": {
-      "2023-10-21": 25
-    }
+    "timeDay": 782,
+    "timeWeek": 595,
+    "timeMonth": 564,
+    "timeYear": 506,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Index (web interface)",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 931,
-    "timeDay": 805,
-    "timeWeek": 825,
+    "time": 932,
+    "timeDay": 1087,
+    "timeWeek": 871,
     "timeMonth": 1280,
     "timeYear": 957,
     "dailyMinutesDown": {
@@ -53,8 +51,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 267,
-    "timeDay": 229,
-    "timeWeek": 185,
+    "timeDay": 194,
+    "timeWeek": 179,
     "timeMonth": 886,
     "timeYear": 300,
     "dailyMinutesDown": {
