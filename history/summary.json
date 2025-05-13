@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 535,
-    "timeDay": 824,
-    "timeWeek": 560,
-    "timeMonth": 506,
+    "timeDay": 525,
+    "timeWeek": 576,
+    "timeMonth": 504,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2025-03-17": 819
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1000,
-    "timeDay": 1303,
-    "timeWeek": 1102,
+    "timeDay": 910,
+    "timeWeek": 1094,
     "timeMonth": 1039,
-    "timeYear": 1037,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2024-08-21": 48
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/red-githubbot.fly.dev.ico",
     "slug": "red-git-hub-bot",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.64%",
+    "uptimeMonth": "43.92%",
     "uptimeYear": "92.68%",
     "time": 280,
-    "timeDay": 129,
-    "timeWeek": 159,
-    "timeMonth": 180,
+    "timeDay": 244,
+    "timeWeek": 174,
+    "timeMonth": 183,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-04-30": 204,
