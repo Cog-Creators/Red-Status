@@ -6,12 +6,22 @@ repo: red-status # Your Github repository name
 sites:
   - name: Cog board
     url: https://cogboard.discord.red
+    assignees:
+      - Twentysix26
   - name: Index (web interface)
     url: https://index.discord.red
+    assignees:
+      - Jackenmen
+      - Kowlin
   - name: Red-GitHubBot
     url: https://red-githubbot.fly.dev
     assignees:
       - Jackenmen
+  - name: Status Page
+    url: https://status.discord.red
+    assignees:
+      - Jackenmen
+      - Kowlin
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
