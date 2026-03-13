@@ -4,7 +4,7 @@
     "url": "https://cogboard.discord.red",
     "icon": "https://icons.duckduckgo.com/ip3/cogboard.discord.red.ico",
     "slug": "cog-board",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 525,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2026-03-13": 0,
       "2025-12-13": 719,
       "2025-12-12": 1440,
       "2025-12-11": 51,
