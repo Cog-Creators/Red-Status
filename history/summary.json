@@ -4,15 +4,15 @@
     "url": "https://cogboard.discord.red",
     "icon": "https://icons.duckduckgo.com/ip3/cogboard.discord.red.ico",
     "slug": "cog-board",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
-    "time": 520,
-    "timeDay": 622,
-    "timeWeek": 476,
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.43%",
+    "time": 519,
+    "timeDay": 545,
+    "timeWeek": 475,
     "timeMonth": 476,
     "timeYear": 532,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2025-12-11": 51,
       "2026-03-13": 321,
       "2026-05-17": 219,
-      "2026-07-09": 0
+      "2026-07-09": 180
     }
   },
   {
