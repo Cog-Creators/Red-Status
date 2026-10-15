@@ -30,17 +30,17 @@
     "url": "https://index.discord.red",
     "icon": "https://icons.duckduckgo.com/ip3/index.discord.red.ico",
     "slug": "index-web-interface",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 1003,
-    "timeDay": 1024,
-    "timeWeek": 896,
-    "timeMonth": 895,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.78%",
+    "time": 1006,
+    "timeDay": 1805,
+    "timeWeek": 1107,
+    "timeMonth": 949,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2025-11-18": 106,
       "2026-03-10": 511,
@@ -48,7 +48,7 @@
       "2026-04-23": 128,
       "2026-04-29": 16,
       "2026-08-17": 165,
-      "2026-10-15": 0
+      "2026-10-15": 192
     }
   },
   {
